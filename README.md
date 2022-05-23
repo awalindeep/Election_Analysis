@@ -1,6 +1,6 @@
 # Election Analysis
 
-### Perform Election Audit for Colorado Board of Elections and automate result using python
+### Perform Election Audit for Colorado Board of Elections and automate result using python.
 
 ## Overview of Election Audit Project
 
@@ -56,7 +56,7 @@ Arapahoe: **6.7% (24,801)**
 * With total of ***272,892*** votes **Diana DeGette,** received ***73.8%*** of the total votes casted in the election.
 
 ![Election Results](https://github.com/awalindeep/Election_Analysis/blob/AwalinGHMAIN/Resources/Election_results.png)
-
+            Election Results in Terminal from VS Code
 
 ## **Election-Audit Summary**
 
